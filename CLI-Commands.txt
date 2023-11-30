@@ -1,0 +1,15 @@
+mkdir {foldername}
+cat {filename}
+ls / ls -l
+pwd
+rm {filename}
+rm -rf {foldername}
+cd .. 
+clear
+nano {filename}
+touch {filename}
+echo 
+{command} --help
+mv {filename} {destination}
+cd {foldername}
+
